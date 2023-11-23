@@ -12,6 +12,10 @@ Aguarde a finalização do projeto!
 #### Manipulação do Repositório
 
 - Clonar para máquina: `git clone https://github.com/mayannaoliveira/mayannaoliveira.github.io.git`
+<<<<<<< HEAD
+=======
+`git pull origin master` 
+>>>>>>> 825005a50b123bf60be94d8edd8c393d24dc2a4d
 - Salvar projeto na branch master: `git push origin master`
 - Salvar projeto na branch dev: `git push origin dev`
 - Criar uma branch: `git branch dev`
