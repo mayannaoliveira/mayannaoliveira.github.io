@@ -1,7 +1,7 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Mayanna Oliveira
+description: In id excepteur consequat aliqua tempor.
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
 url: https://cvless.netlify.app
@@ -12,7 +12,7 @@ repo: https://github.com/username/username.github.io
 # author settings
 
 author:
-  name: Place Holder
+  name: Mayanna Oliveira
   email: username@domain.com
 photo: /assets/jpg/photo.jpg
 
