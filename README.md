@@ -11,12 +11,12 @@ Aguarde a finalização do projeto!
 
 #### Manipulação do Repositório
 
-- Clonar para máquina: `git clone https://github.com/mayannaoliveira/mayannaoliveira.github.io.git`
-- Salvar projeto na branch master: `git push origin master`
-- Salvar projeto na branch dev: `git push origin dev`
-- Criar uma branch: `git branch dev`
-- Acessar branch criada: `git checkout dev`
-- Adiciona todos arquivos: `git add .`
-- Commit com mensagem: `git commit -m "Salvando Repositório"`
-- Baixar o repositório remoto na branch dev: `git pull origin dev`
-- Baixar o repositório remoto na branch master: `git pull origin dev`
+- Clonar para máquina: `git clone https://github.com/mayannaoliveira/mayannaoliveira.github.io.git`.
+- Salvar projeto na branch master: `git push origin master`.
+- Salvar projeto na branch dev: `git push origin dev`.
+- Criar uma branch: `git branch dev`.
+- Acessar branch criada: `git checkout dev`.
+- Adiciona todos arquivos: `git add .`.
+- Commit com mensagem: `git commit -m "Salvando Repositório"`.
+- Baixar o repositório remoto na branch dev: `git pull origin dev`.
+- Baixar o repositório remoto na branch master: `git pull origin dev`.
