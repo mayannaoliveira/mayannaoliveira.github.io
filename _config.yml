@@ -2,29 +2,29 @@
 
 title: Mayanna Oliveira
 description: In id excepteur consequat aliqua tempor.
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+taglong: In id excepteur consequat aliqua tempor
+tagshort: Mayanna Oliveira
+url: https://google.com/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/mayannaoliveira/mayannaoliveira.github.io
 
 # author settings
 
 author:
   name: Mayanna Oliveira
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  email: mayannasoliveira@gmail.com
+photo: /assets/jpg/github.png
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  facebook: mayannaoliveira
+  github: mayannaoliveira
+  instagram: mayannaoliveira
+  linkedin: mayannaoliveira
+  stackoverflow: 16884312/mayanna
+  twitter: oliveiramayanna
 
 # build settings
 
